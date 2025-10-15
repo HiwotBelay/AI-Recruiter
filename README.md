@@ -1,6 +1,6 @@
 ## 🤖QUENERECRUIT AI Recruiter : AI-Powered Recruitment Platform
 
-AI Recruiter is an intelligent recruitment platform designed to streamline the hiring process for companies and organizations. With the power of AI, it analyzes job requirements provided by hiring officers and evaluates candidate resumes to recommend the best fits, saving time, reducing bias, and improving hiring efficiency. A modern recruitment platform built with React and Material-UI, featuring AI-powered candidate screening, analytics, and interview scheduling..................
+AI Recruiter is an intelligent recruitment platform designed to streamline the hiring process for companies and organizations. With the power of AI, it analyzes job requirements provided by hiring officers and evaluates candidate resumes to recommend the best fits, saving time, reducing bias, and improving hiring efficiency. A modern recruitment platform built with React and Material-UI, featuring AI-powered candidate screening, analytics, and interview scheduling...................
 
 ## 🚀 Features
 
